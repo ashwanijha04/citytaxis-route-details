@@ -1,0 +1,21 @@
+{
+  "distance": "78 km",
+  "duration": "2 hours",
+  "cost": 1800,
+  "faqs": [
+    {
+      "question": "How much does a cab from Indore to Omkareshwar cost?",
+      "answer": "The cost starts at ₹1800 for a Hatchback."
+    },
+    {
+      "question": "Can I book an SUV for this trip?",
+      "answer": "Yes, SUV options are available with additional charges."
+    },
+    {
+      "question": "Do you provide one-way and round-trip options?",
+      "answer": "Yes, both one-way and round-trip options are available."
+    }
+  ],
+  "pickupLocation": "Indore",
+  "dropLocation": "Omkareshwar"
+}
