@@ -1,0 +1,21 @@
+{
+  "distance": "131 km",
+  "duration": "3 hours 10 minutes",
+  "cost": 1600,
+  "faqs": [
+    {
+      "question": "How much does it cost to travel from Ranchi to Jamshedpur?",
+      "answer": "The cost starts at ₹1600 for a Hatchback."
+    },
+    {
+      "question": "Are SUVs available for this route?",
+      "answer": "Yes, SUV options are available for larger groups or extra luggage."
+    },
+    {
+      "question": "Can I request for multiple stops along the route?",
+      "answer": "Yes, additional stops can be added upon request with extra charges."
+    }
+  ],
+  "pickupLocation": "Ranchi",
+  "dropLocation": "Jamshedpur"
+}
