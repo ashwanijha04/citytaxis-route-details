@@ -1,0 +1,17 @@
+{
+  "distance": "112.2 km",
+  "duration": "2 hours 55 minutes",
+  "cost": 2347,
+  "faqs": [
+    {
+      "question": "What is the cost of a Bokaro to Ranchi cab?",
+      "answer": "The cost starts from ₹2347 for a Hatchback."
+    },
+    {
+      "question": "Are round trips available?",
+      "answer": "Yes, you can book a round trip with flexible return timings."
+    }
+  ],
+  "pickupLocation": "Bokaro",
+  "dropLocation": "Ranchi"
+}
