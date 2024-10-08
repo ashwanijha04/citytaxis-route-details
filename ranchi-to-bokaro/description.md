@@ -67,7 +67,7 @@ Our [Bokaro Taxi Service](https://www.citytaxis.in/bokaro-taxi-service) also pro
 
 ---
 
-## <span style="color:#FF5733;">Discover Bokaro Steel City</span>
+## <span>Discover Bokaro Steel City</span>
 
 ### About Bokaro
 
