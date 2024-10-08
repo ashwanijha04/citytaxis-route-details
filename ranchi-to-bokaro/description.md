@@ -105,7 +105,7 @@ Don't miss out on the opportunity to travel with the best. **[Book your Ranchi t
 ## Contact Us for More Information
 
 - **Phone**: +91-9798642711
-- **Email**: [support@citytaxis.in](mailto:anand@citytaxis.in)
+- **Email**: [anand@citytaxis.in](mailto:anand@citytaxis.in)
 - **Website**: [www.citytaxis.in](https://www.citytaxis.in)
 
 ---
