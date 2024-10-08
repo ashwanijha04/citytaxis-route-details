@@ -1,0 +1,21 @@
+{
+  "distance": "194 km",
+  "duration": "3 hours 45 minutes",
+  "cost": 4000,
+  "faqs": [
+    {
+      "question": "What is the cab fare from Indore to Bhopal?",
+      "answer": "The fare starts from ₹4000 for a Hatchback."
+    },
+    {
+      "question": "Are there options for an SUV?",
+      "answer": "Yes, you can book an SUV for an additional cost."
+    },
+    {
+      "question": "Do you provide one-way and round-trip options?",
+      "answer": "Yes, we offer both one-way and round-trip bookings."
+    }
+  ],
+  "pickupLocation": "Indore",
+  "dropLocation": "Bhopal"
+}
