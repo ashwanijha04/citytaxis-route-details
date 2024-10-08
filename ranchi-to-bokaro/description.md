@@ -130,7 +130,7 @@ For more information on our services, explore our **[Ranchi Taxi Service](https:
 
 ---
 
-## <span style="color:#FF5733;">Contact Us for More Information</span>
+## <span>Contact Us for More Information</span>
 
 - **Phone**: +91-9798642711
 - **Email**: <a href="mailto:anand@citytaxis.in" style="color:blue; text-decoration:underline;">anand@citytaxis.in</a>
