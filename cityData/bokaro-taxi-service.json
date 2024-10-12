@@ -1,1 +1,62 @@
 
+{
+    "bokaro": {
+      "name": "Bokaro",
+      "subtitle": "Your Reliable Ride in the Steel City",
+      "services": [
+        "Airport Transfers to Ranchi and beyond",
+        "Local Rides around Bokaro Steel City",
+        "Outstation Trips to popular destinations",
+        "Corporate Services for business travel",
+        "Rental Services for long-term hires",
+        "Sightseeing Tours in Bokaro",
+        "Intercity Cab Services"
+      ],
+      "history": [
+        "Bokaro was established in the 1960s as an industrial city, primarily known for the Bokaro Steel Plant, which was set up in collaboration with the Soviet Union.",
+        "The city has grown significantly since then, evolving into an important industrial and educational hub in Jharkhand.",
+        "Today, Bokaro is known for its diverse culture and robust infrastructure, making it a preferred destination for many."
+      ],
+      "culture": [
+        "Bokaro boasts a rich cultural heritage that reflects a blend of various communities.",
+        "The city is known for its festivals, including Durga Puja, Diwali, and Holi, which are celebrated with great enthusiasm.",
+        "The culinary scene in Bokaro is diverse, featuring local delicacies and traditional cuisines that represent the flavors of Jharkhand."
+      ],
+      "thingsToDo": [
+        "Visit the City Park for a peaceful walk and family outings",
+        "Explore the scenic beauty around Garga River",
+        "Pay a visit to Jagannath Temple for a spiritual experience",
+        "Shop at the Civic Centre for local crafts and goods",
+        "Enjoy outdoor activities like boating at local lakes"
+      ],
+      "popularRoutes": [
+        "Bokaro to Ranchi",
+        "Bokaro to Dhanbad",
+        "Bokaro to Jamshedpur",
+        "Bokaro to Hazaribagh",
+        "Bokaro to Patna"
+      ],
+      "faqs": [
+        {
+          "question": "How do I book a taxi in Bokaro?",
+          "answer": "You can book a taxi through our website or by calling our customer service number."
+        },
+        {
+          "question": "What payment methods do you accept?",
+          "answer": "We accept cash, credit/debit cards, and mobile wallets."
+        },
+        {
+          "question": "Are there any extra charges?",
+          "answer": "No, we have transparent pricing with no hidden charges."
+        },
+        {
+          "question": "What areas do you serve in Bokaro?",
+          "answer": "We serve all areas within Bokaro and nearby locations, including airport transfers to Ranchi."
+        },
+        {
+          "question": "Is your service available 24/7?",
+          "answer": "Yes, we provide round-the-clock taxi services for your convenience."
+        }
+      ]
+    }
+  }
