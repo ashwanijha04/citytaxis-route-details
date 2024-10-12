@@ -29,11 +29,11 @@
       "For outdoor activities, Bokaro offers boating, hiking, and bird watching around local lakes and parks. Enjoy nature and adventure at your pace. [Outdoor activities](https://example.com/outdoor-activities) offers options for a day of exploration and recreation."
     ],
     "popularRoutes": [
-      "Bokaro to Ranchi - Travel conveniently to the state capital, known for its cultural sites and business opportunities. [Book a ride](https://example.com/ranchi)",
-      "Bokaro to Dhanbad - Visit the 'Coal Capital of India' with our safe and reliable taxi services. [Book a ride](https://example.com/dhanbad)",
-      "Bokaro to Jamshedpur - Explore the city of Tata Steel, rich in industrial heritage and green parks. [Book a ride](https://example.com/jamshedpur)",
-      "Bokaro to Hazaribagh - A gateway to Hazaribagh National Park, perfect for nature and wildlife enthusiasts. [Book a ride](https://example.com/hazaribagh)",
-      "Bokaro to Patna - Journey to the historic city of Patna with our comfortable intercity cab services. [Book a ride](https://example.com/patna)"
+      "[Bokaro to Ranchi]({{HOST}}/cab-routes/ranchi-to-bokaro) - Travel conveniently to the state capital, known for its cultural sites and business opportunities. [Book a ride](https://example.com/ranchi)",
+      "[Bokaro to Dhanbad]({{HOST}}/cab-routes/dhanbad-to-bokaro) - Visit the 'Coal Capital of India' with our safe and reliable taxi services. [Book a ride](https://example.com/dhanbad)",
+      "[Bokaro to Jamshedpur]({{HOST}}/cab-routes/jamshedpur-to-bokaro) - Explore the city of Tata Steel, rich in industrial heritage and green parks. [Book a ride](https://example.com/jamshedpur)",
+      "[Bokaro to Hazaribagh]({{HOST}}/cab-routes/hazaribagh-to-bokaro) - A gateway to Hazaribagh National Park, perfect for nature and wildlife enthusiasts. [Book a ride](https://example.com/hazaribagh)",
+      "[Bokaro to Patna]({{HOST}}/cab-routes/patna-to-bokaro) - Journey to the historic city of Patna with our comfortable intercity cab services. [Book a ride](https://example.com/patna)"
     ],
     "faqs": [
       {
