@@ -1,0 +1,61 @@
+{
+  "delhi": {
+    "name": "Delhi",
+    "subtitle": "Discover the Heart of India with Our Reliable Taxi Services",
+    "services": [
+      "Our **Airport Transfers** from Indira Gandhi International Airport offer timely and professional services. [Book your airport transfer](https://example.com/airport-transfers-delhi) for a comfortable experience.",
+      "For **Local Rides around Delhi**, we provide a variety of vehicles suited for all types of trips, from short errands to full-day rentals. [Learn more](https://example.com/local-rides-delhi) about local options.",
+      "Plan an **Outstation Trip** from Delhi to explore nearby destinations like Agra, Jaipur, and Manesar. [Explore destinations](https://example.com/outstation-trips-delhi) for a day trip or a weekend getaway.",
+      "Our **Corporate Services** cater to business travelers with executive cars, priority support, and billing options. [Corporate inquiries](https://example.com/corporate-services-delhi).",
+      "Long-term **Rental Services** are available for projects, extended stays, or visiting professionals. [Rental options](https://example.com/rentals-delhi) suit various durations.",
+      "Discover Delhi’s heritage with our **Sightseeing Tours** to Red Fort, Qutub Minar, and India Gate. [Tour packages](https://example.com/tours-delhi) are customizable.",
+      "Our **Intercity Cab Services** link Delhi to nearby cities such as Noida, Gurgaon, and Faridabad. [Book an intercity ride](https://example.com/intercity-cabs-delhi) for smooth travel."
+    ],
+    "history": [
+      "Delhi has a rich history dating back to the Mahabharata, once known as **Indraprastha**. [History of Delhi](https://example.com/delhi-history) offers a glimpse into its past.",
+      "The city is home to several UNESCO World Heritage Sites, including **Qutub Minar**, **Red Fort**, and **Humayun's Tomb**. [UNESCO Sites](https://example.com/unesco-sites-delhi) are major attractions.",
+      "Today, Delhi is the bustling capital of India, combining ancient monuments with modern architecture. [Delhi’s growth](https://example.com/economic-growth-delhi)."
+    ],
+    "culture": [
+      "Delhi’s cultural diversity is celebrated through festivals like **Diwali, Holi, and Eid**, which are marked by vibrant events. [Delhi Festivals](https://example.com/delhi-festivals).",
+      "The city’s food culture is famous for dishes like chole bhature, parathas, and kebabs. [Food in Delhi](https://example.com/food-delhi) is a treat for visitors.",
+      "Delhi’s art and theater scene is lively, with venues like **Kamani Auditorium** and **NSD** hosting various performances. [Delhi Art Scene](https://example.com/art-scene-delhi)."
+    ],
+    "thingsToDo": [
+      "Visit the iconic **Red Fort** and learn about Delhi’s history. [Plan a visit](https://example.com/red-fort).",
+      "Explore **India Gate**, a war memorial, and a popular spot for evening outings. [More about India Gate](https://example.com/india-gate).",
+      "The **Lotus Temple** is a stunning piece of architecture and a peaceful place for meditation. [Lotus Temple details](https://example.com/lotus-temple).",
+      "Experience Delhi’s markets, from **Chandni Chowk** to **Sarojini Nagar**, offering everything from traditional goods to fashion. [Explore Delhi Markets](https://example.com/delhi-markets).",
+      "Walk through **Lodi Gardens**, a beautiful park with historical tombs and lush greenery. [Visit Lodi Gardens](https://example.com/lodi-gardens)."
+    ],
+    "popularRoutes": [
+      "Delhi to Agra - Home to the Taj Mahal and a popular day trip from Delhi. [Book a ride](https://example.com/agra).",
+      "Delhi to Jaipur - Explore the Pink City, famous for its forts and palaces. [Book a ride](https://example.com/jaipur).",
+      "Delhi to Chandigarh - Visit the modern city designed by Le Corbusier. [Book a ride](https://example.com/chandigarh).",
+      "Delhi to Rishikesh - A spiritual city on the Ganges, ideal for adventure and peace. [Book a ride](https://example.com/rishikesh).",
+      "Delhi to Manesar - A quick escape to a serene town with luxury resorts. [Book a ride](https://example.com/manesar)."
+    ],
+    "faqs": [
+      {
+        "question": "How do I book a taxi in Delhi?",
+        "answer": "You can book through our website or by calling us. [Book now](https://example.com/book-delhi)."
+      },
+      {
+        "question": "What payment options do you offer?",
+        "answer": "We accept cash, cards, and mobile wallets. [Payment details](https://example.com/payment-delhi)."
+      },
+      {
+        "question": "Are there any extra charges?",
+        "answer": "No, we have transparent pricing. [Check fares](https://example.com/fares-delhi)."
+      },
+      {
+        "question": "What areas do you cover?",
+        "answer": "We serve all of Delhi and NCR. [Service areas](https://example.com/service-areas-delhi)."
+      },
+      {
+        "question": "Is your service available 24/7?",
+        "answer": "Yes, round-the-clock availability. [Operating hours](https://example.com/24-7-service-delhi)."
+      }
+    ]
+  }
+}
