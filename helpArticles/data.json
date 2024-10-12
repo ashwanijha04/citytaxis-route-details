@@ -1,1 +1,43 @@
 
+[
+  {
+    "id": 1,
+    "title": "How to Book a Taxi",
+    "content": "## Booking a Taxi\nBooking a taxi is easy and can be done in just a few steps:\n\n### Steps to Book\n1. **Visit the booking page** on our website or open our mobile app.\n2. **Enter your pickup and drop-off locations** along with the desired time and date.\n3. **Choose your vehicle type** based on your needs.\n4. **Confirm your booking** and receive a confirmation email with the ride details.\n\n### Tips\n- Make sure to book in advance during peak hours.\n- Always double-check the booking details before confirming.\n\nFor further assistance, feel free to contact our support team."
+  },
+  {
+    "id": 2,
+    "title": "Payment Methods",
+    "content": "## Payment Options\nWe offer various payment methods for your convenience:\n\n- **Credit/Debit Cards**: All major cards are accepted.\n- **Mobile Wallets**: Pay using your favorite wallet app.\n- **Cash**: Pay directly to the driver at the end of your ride.\n\nFor more information on payments, visit our [Payment Information](https://example.com/payment-info) page."
+  },
+  {
+    "id": 3,
+    "title": "Managing Your Account",
+    "content": "## Account Management\nYou can manage your account settings through the following options:\n\n- **Update Personal Information**: Edit your name, email, and phone number.\n- **Change Password**: Securely update your password anytime.\n- **Payment Preferences**: Add or remove payment methods.\n\nVisit the [Account Settings](https://example.com/account-settings) page to make changes."
+  },
+  {
+    "id": 4,
+    "title": "Booking Cancellations",
+    "content": "## Canceling a Booking\nTo cancel a booking, please follow these steps:\n\n1. **Log in to your account** and go to 'My Bookings'.\n2. **Select the booking** you wish to cancel.\n3. **Click on 'Cancel Booking'** and confirm the cancellation.\n\nRefer to our [cancellation policy](https://example.com/cancellation-policy) for more details."
+  },
+  {
+    "id": 5,
+    "title": "Service Areas",
+    "content": "## Where We Operate\nWe offer taxi services in multiple cities and areas. Check out the [Service Areas](https://example.com/service-areas) page to find the complete list of locations where we operate."
+  },
+  {
+    "id": 6,
+    "title": "Customer Support",
+    "content": "## Contacting Customer Support\nFor any issues or assistance, our customer support team is available 24/7. Visit our [Support Center](https://example.com/support) for contact options or call us directly."
+  },
+  {
+    "id": 7,
+    "title": "Troubleshooting Payment Issues",
+    "content": "## Payment Issue Resolution\nIf you encounter any payment issues, here are some steps to follow:\n\n1. **Ensure your payment method is up-to-date**.\n2. **Check your network connection** if using mobile wallets.\n3. **Retry the payment** or try an alternate method.\n\nFor further help, contact [Payment Support](https://example.com/payment-support)."
+  },
+  {
+    "id": 8,
+    "title": "Privacy and Data Security",
+    "content": "## Your Privacy Matters\nLearn about our privacy practices and how we protect your data on our [Privacy Policy](https://example.com/privacy-policy) page."
+  }
+]
