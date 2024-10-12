@@ -2,57 +2,41 @@
   {
     "id": 1,
     "title": "How to Book a Taxi",
-    "category": "Booking",
-    "description": "Follow our easy steps to book a taxi through the website or mobile app.",
-    "content": "## Booking a Taxi\n\nBooking a taxi with us is quick and convenient. Follow these simple steps to reserve your ride:\n\n### Steps to Book\n1. **Visit the booking page** on our website or launch our mobile app.\n2. **Enter your pickup and drop-off locations**, as well as the time and date.\n3. **Choose your preferred vehicle type**—whether it’s a sedan, SUV, or hatchback.\n4. **Confirm your booking** and receive a confirmation email with your ride details.\n\n### Pro Tips for Smooth Booking\n- **Plan ahead** and book during non-peak hours for faster service.\n- **Review your booking details** before confirming to avoid mistakes.\n\nNeed help? Our support team is always ready to assist."
+    "content": "## How to Book a Taxi\nBooking a taxi with us is simple and can be completed in just a few steps:\n\n### Steps to Book\n1. **Visit the booking page** on our website or open our mobile app.\n2. **Enter your pickup and drop-off locations**, and select the date and time for your ride.\n3. **Choose your preferred vehicle type**—we offer options such as sedan, SUV, and hatchback.\n4. **Confirm your booking** and receive an email confirmation with the trip details.\n\n### Booking Tips\n- **Peak Hours**: Book early during peak hours to secure your ride.\n- **Check Details**: Double-check the booking details to avoid errors.\n\nFor further assistance, our support team is available to help."
   },
   {
     "id": 2,
     "title": "Payment Methods",
-    "category": "Payments",
-    "description": "Explore secure payment options available for hassle-free booking.",
-    "content": "## Payment Options for Taxi Bookings\n\nWe offer various secure payment methods to make your taxi booking as convenient as possible:\n\n- **Credit/Debit Cards**: We accept all major credit and debit cards.\n- **Mobile Wallets**: Use popular mobile wallets for a quick and hassle-free checkout experience.\n- **Cash Payments**: You can also choose to pay the driver in cash at the end of your trip.\n\nFor more details, visit our [Payment Information](https://example.com/payment-info) page and learn about each payment method available."
+    "content": "## Payment Options\nWe provide various payment methods for your convenience:\n\n- **Credit/Debit Cards**: We accept all major credit and debit cards.\n- **Mobile Wallets**: Use popular mobile wallets like Paytm, Google Pay, and Apple Pay.\n- **Cash**: Pay in cash directly to the driver at the end of your trip.\n\nFor more information on each payment method, visit our [Payment Information](https://example.com/payment-info) page."
   },
   {
     "id": 3,
     "title": "Managing Your Account",
-    "category": "Account",
-    "description": "Learn how to update your personal details, change passwords, and more.",
-    "content": "## How to Manage Your Account\n\nYou can easily access and update your account settings anytime. Here’s what you can manage:\n\n- **Personal Information**: Update your name, email, and contact number.\n- **Change Password**: For security, regularly update your password.\n- **Payment Preferences**: Add or remove payment methods as needed.\n\nVisit our [Account Settings](https://example.com/account-settings) page to make changes, or contact our support team if you need assistance with your account."
+    "content": "## Account Management\nManage your account settings and preferences with ease:\n\n- **Update Personal Info**: Change your name, email, and phone number.\n- **Change Password**: For security, regularly update your password.\n- **Payment Preferences**: Add, update, or remove payment methods anytime.\n\nVisit our [Account Settings](https://example.com/account-settings) page to make updates or reach out to support for assistance."
   },
   {
     "id": 4,
     "title": "Booking Cancellations",
-    "category": "Booking",
-    "description": "Guidance on how to cancel a booking and understand cancellation policies.",
-    "content": "## How to Cancel a Taxi Booking\n\nTo cancel a booking, simply follow these steps:\n\n1. **Log in** to your account on our website or app.\n2. **Navigate to 'My Bookings'** and select the booking you wish to cancel.\n3. **Click 'Cancel Booking'** and confirm your cancellation.\n\nBe sure to check our [cancellation policy](https://example.com/cancellation-policy) for any applicable fees or conditions based on the cancellation timing."
+    "content": "## Canceling a Booking\nTo cancel a booking, follow these steps:\n\n1. **Log in** to your account and go to the 'My Bookings' section.\n2. **Select the booking** you want to cancel.\n3. **Click 'Cancel Booking'** and confirm your cancellation.\n\nRefer to our [cancellation policy](https://example.com/cancellation-policy) for details on fees and conditions."
   },
   {
     "id": 5,
     "title": "Service Areas",
-    "category": "General",
-    "description": "Find out which cities and areas our taxi services cover.",
-    "content": "## Cities and Areas We Serve\n\nWe provide taxi services in multiple cities, covering both local and intercity trips. Some of our main service areas include:\n\n- **Metropolitan Cities**: Fast and reliable service in large cities.\n- **Outstation Services**: Convenient intercity rides for long-distance travel.\n\nFor a full list of service locations, check our [Service Areas](https://example.com/service-areas) page."
+    "content": "## Where We Operate\nOur taxi services are available in multiple cities, covering both local and intercity travel. We currently operate in:\n\n- **Major Metropolitan Areas**: Reliable service in all major cities.\n- **Outstation Routes**: Book convenient intercity trips for your travel needs.\n\nFor a complete list of cities we serve, check out our [Service Areas](https://example.com/service-areas) page."
   },
   {
     "id": 6,
     "title": "Customer Support",
-    "category": "General",
-    "description": "Contact our 24/7 support team for assistance with any issues.",
-    "content": "## Contacting Customer Support\n\nOur dedicated customer support team is available 24/7 to help you with any questions or issues. Whether you need booking assistance, payment help, or general inquiries, we’re here for you.\n\n- **Visit our [Support Center](https://example.com/support)** to explore various contact methods.\n- **Call our support hotline** for immediate assistance.\n\nWe prioritize customer satisfaction and aim to resolve all inquiries promptly."
+    "content": "## Contacting Customer Support\nOur customer support team is available 24/7 to help you with any questions or issues:\n\n- **Visit our [Support Center](https://example.com/support)** for various contact options.\n- **Call our hotline** for immediate assistance.\n\nWe prioritize customer satisfaction and strive to address all inquiries promptly."
   },
   {
     "id": 7,
     "title": "Troubleshooting Payment Issues",
-    "category": "Payments",
-    "description": "Steps to resolve common issues encountered during payment.",
-    "content": "## Resolving Payment Issues\n\nIf you experience any problems during the payment process, try these steps:\n\n1. **Ensure your payment method is valid and up-to-date**.\n2. **Check your network connection** if using mobile wallets.\n3. **Try an alternative payment method** or retry the transaction.\n\nStill having issues? Visit our [Payment Support](https://example.com/payment-support) page for more information, or contact us directly for help."
+    "content": "## Resolving Payment Issues\nIf you encounter issues with payments, try these steps:\n\n1. **Verify your payment method** is active and valid.\n2. **Check your internet connection** if using mobile wallets.\n3. **Retry the payment** or try a different payment method.\n\nFor more guidance, visit our [Payment Support](https://example.com/payment-support) page or contact us for help."
   },
   {
     "id": 8,
     "title": "Privacy and Data Security",
-    "category": "Privacy",
-    "description": "Understand how we protect your personal data and ensure privacy.",
-    "content": "## Protecting Your Privacy and Data\n\nYour privacy is important to us. We adhere to strict data protection protocols to ensure your information remains secure.\n\n- **Data Encryption**: All sensitive information is encrypted.\n- **Privacy Policy**: Learn how we use and protect your data by visiting our [Privacy Policy](https://example.com/privacy-policy) page.\n\nFeel confident that your data is safe with us. Reach out if you have any questions regarding our data protection practices."
+    "content": "## Privacy and Data Protection\nYour privacy is our top priority. Here’s how we protect your data:\n\n- **Data Encryption**: All sensitive information is encrypted.\n- **Privacy Policy**: Learn more about how we use your data on our [Privacy Policy](https://example.com/privacy-policy) page.\n\nFeel secure with us—we’re committed to safeguarding your data."
   }
 ]
