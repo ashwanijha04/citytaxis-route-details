@@ -1,62 +1,61 @@
-
 {
-    "bokaro": {
-      "name": "Bokaro",
-      "subtitle": "Your Reliable Ride in the Steel City",
-      "services": [
-        "Airport Transfers to Ranchi and beyond",
-        "Local Rides around Bokaro Steel City",
-        "Outstation Trips to popular destinations",
-        "Corporate Services for business travel",
-        "Rental Services for long-term hires",
-        "Sightseeing Tours in Bokaro",
-        "Intercity Cab Services"
-      ],
-      "history": [
-        "Bokaro was established in the 1960s as an industrial city, primarily known for the Bokaro Steel Plant, which was set up in collaboration with the Soviet Union.",
-        "The city has grown significantly since then, evolving into an important industrial and educational hub in Jharkhand.",
-        "Today, Bokaro is known for its diverse culture and robust infrastructure, making it a preferred destination for many."
-      ],
-      "culture": [
-        "Bokaro boasts a rich cultural heritage that reflects a blend of various communities.",
-        "The city is known for its festivals, including Durga Puja, Diwali, and Holi, which are celebrated with great enthusiasm.",
-        "The culinary scene in Bokaro is diverse, featuring local delicacies and traditional cuisines that represent the flavors of Jharkhand."
-      ],
-      "thingsToDo": [
-        "Visit the City Park for a peaceful walk and family outings",
-        "Explore the scenic beauty around Garga River",
-        "Pay a visit to Jagannath Temple for a spiritual experience",
-        "Shop at the Civic Centre for local crafts and goods",
-        "Enjoy outdoor activities like boating at local lakes"
-      ],
-      "popularRoutes": [
-        "Bokaro to Ranchi",
-        "Bokaro to Dhanbad",
-        "Bokaro to Jamshedpur",
-        "Bokaro to Hazaribagh",
-        "Bokaro to Patna"
-      ],
-      "faqs": [
-        {
-          "question": "How do I book a taxi in Bokaro?",
-          "answer": "You can book a taxi through our website or by calling our customer service number."
-        },
-        {
-          "question": "What payment methods do you accept?",
-          "answer": "We accept cash, credit/debit cards, and mobile wallets."
-        },
-        {
-          "question": "Are there any extra charges?",
-          "answer": "No, we have transparent pricing with no hidden charges."
-        },
-        {
-          "question": "What areas do you serve in Bokaro?",
-          "answer": "We serve all areas within Bokaro and nearby locations, including airport transfers to Ranchi."
-        },
-        {
-          "question": "Is your service available 24/7?",
-          "answer": "Yes, we provide round-the-clock taxi services for your convenience."
-        }
-      ]
-    }
+  "bokaro": {
+    "name": "Bokaro",
+    "subtitle": "Your Reliable Ride in the Steel City",
+    "services": [
+      "Airport Transfers to Ranchi and beyond, providing comfortable and timely pick-up and drop-off services to all major airports. [Book now](https://example.com/airport-transfers)",
+      "Local Rides around Bokaro Steel City, ideal for daily commutes, shopping trips, and social visits within the city. Our fleet includes compact cars, sedans, and SUVs to meet your needs. [Learn more](https://example.com/local-rides)",
+      "Outstation Trips to popular destinations like Ranchi, Dhanbad, and Jamshedpur. Enjoy a hassle-free journey to any city or town in the region with our reliable outstation cabs. [Explore destinations](https://example.com/outstation-trips)",
+      "Corporate Services for business travel, ensuring comfortable and reliable rides for business professionals with corporate billing and priority customer support. [Corporate inquiries](https://example.com/corporate-services)",
+      "Rental Services for long-term hires, perfect for extended stays or ongoing projects in Bokaro. We offer flexible rental options with daily, weekly, and monthly rates. [Rental options](https://example.com/rentals)",
+      "Sightseeing Tours in Bokaro, including guided tours to major attractions like the City Park, Garga River, and Jagannath Temple. Custom itineraries are available. [Tour packages](https://example.com/tours)",
+      "Intercity Cab Services connecting Bokaro with major cities across Jharkhand and nearby states. Enjoy a safe and comfortable ride with our experienced drivers. [Book an intercity ride](https://example.com/intercity-cabs)"
+    ],
+    "history": [
+      "Bokaro was established in the 1960s as part of India's industrial expansion, with the Bokaro Steel Plant being one of the first large-scale industrial projects in the city. The plant was built in collaboration with the Soviet Union and became one of the largest steel plants in India. The development of the steel plant was a significant step in India's journey towards industrial self-sufficiency. [More about Bokaro Steel Plant](https://en.wikipedia.org/wiki/Bokaro_Steel_Plant)",
+      "The city quickly grew around the steel plant, attracting people from various parts of India. Bokaro's strategic location and infrastructure made it an ideal site for additional industrial projects, fostering its growth as an industrial and educational hub. Today, Bokaro houses several prestigious schools and colleges, making it a sought-after destination for students and professionals alike. [Education in Bokaro](https://example.com/education-in-bokaro)",
+      "In recent years, Bokaro has diversified beyond steel production, with investments in sectors like energy, IT, and services. The city continues to be a crucial contributor to Jharkhand's economy, with an infrastructure that supports a range of industries and attracts tourists interested in its unique blend of modernity and tradition. [Economic development in Bokaro](https://example.com/economic-development)"
+    ],
+    "culture": [
+      "Bokaro is a melting pot of cultures, with residents from various parts of India, including Bengal, Bihar, Odisha, and Punjab. This diversity is reflected in the city’s festivals, music, and dance forms. Festivals such as Durga Puja, Diwali, and Holi are celebrated with enthusiasm and grandeur, often featuring elaborate decorations, traditional performances, and communal feasts. [Cultural events in Bokaro](https://example.com/cultural-events)",
+      "The city’s cuisine is a mix of Jharkhand's traditional flavors and influences from neighboring states. Popular local dishes include litti chokha, dhuska, and pitha, as well as sweets like tilkut and thekua. Bokaro's street food scene is also vibrant, with stalls offering delicacies like chaat, samosas, and jalebi. [Discover Jharkhand cuisine](https://example.com/jharkhand-cuisine)",
+      "In addition to modern influences, Bokaro also preserves its tribal heritage, with communities such as the Santhals and Oraons practicing traditional customs and festivals. Their arts, crafts, and rituals add a unique dimension to the city’s cultural fabric. [Learn about tribal heritage](https://example.com/tribal-heritage)"
+    ],
+    "thingsToDo": [
+      "Visit the City Park for a peaceful walk and family outings. The park features a lake, boating facilities, and beautiful landscaped gardens, making it a perfect spot for picnics. [Plan your visit](https://example.com/city-park)",
+      "Explore the scenic beauty around Garga River, a popular destination for nature enthusiasts. The riverbank offers stunning views and is ideal for a day of relaxation and picnicking. [More on Garga River](https://example.com/garga-river)",
+      "Pay a visit to Jagannath Temple for a spiritual experience. This temple is a renowned pilgrimage site, drawing visitors from across the state. [Temple timings and details](https://example.com/jagannath-temple)",
+      "Shop at the Civic Centre for local crafts and goods. The center is home to a variety of shops selling handicrafts, textiles, and traditional Jharkhandi products. [Explore Civic Centre](https://example.com/civic-centre)",
+      "Enjoy outdoor activities like boating, hiking, and bird watching at local lakes and parks. Bokaro is surrounded by natural beauty, with opportunities for adventure and recreation. [Outdoor activities](https://example.com/outdoor-activities)"
+    ],
+    "popularRoutes": [
+      "Bokaro to Ranchi - A convenient ride to the state capital, known for its cultural sites and business opportunities. [Book a ride](https://example.com/ranchi)",
+      "Bokaro to Dhanbad - Travel to the 'Coal Capital of India' with our safe and reliable taxi services. [Book a ride](https://example.com/dhanbad)",
+      "Bokaro to Jamshedpur - Visit the city of Tata Steel, rich in industrial heritage and scenic parks. [Book a ride](https://example.com/jamshedpur)",
+      "Bokaro to Hazaribagh - A gateway to Hazaribagh National Park, ideal for nature lovers and wildlife enthusiasts. [Book a ride](https://example.com/hazaribagh)",
+      "Bokaro to Patna - Journey to the historic city of Patna with our comfortable intercity services. [Book a ride](https://example.com/patna)"
+    ],
+    "faqs": [
+      {
+        "question": "How do I book a taxi in Bokaro?",
+        "answer": "You can book a taxi through our website or by calling our customer service number. [Book online](https://example.com/book)"
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept cash, credit/debit cards, and mobile wallets. For online bookings, you can pay via our secure payment gateway. [Payment options](https://example.com/payment)"
+      },
+      {
+        "question": "Are there any extra charges?",
+        "answer": "No, we have transparent pricing with no hidden charges. The fare you see at the time of booking is the fare you pay. [Fare details](https://example.com/fares)"
+      },
+      {
+        "question": "What areas do you serve in Bokaro?",
+        "answer": "We serve all areas within Bokaro and nearby locations, including airport transfers to Ranchi. [Service areas](https://example.com/service-areas)"
+      },
+      {
+        "question": "Is your service available 24/7?",
+        "answer": "Yes, we provide round-the-clock taxi services for your convenience. Whether it’s an early morning airport ride or a late-night pickup, we’ve got you covered. [Operating hours](https://example.com/24-7-service)"
+      }
+    ]
   }
+}
