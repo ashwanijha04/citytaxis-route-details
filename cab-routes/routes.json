@@ -44,6 +44,24 @@
       "time": "3 hours",
       "price": "₹2000",
       "description": "A comfortable journey connecting the steel city to the capital of Jharkhand."
+    },
+    {
+      "route": "delhi-to-jaipur",
+      "pickupLocation": "Delhi",
+      "dropLocation": "Jaipur",
+      "distance": "280 km",
+      "time": "5 hours",
+      "price": "₹3500",
+      "description": "A royal journey from the capital of India to the Pink City."
+    },
+    {
+      "route": "mumbai-to-pune",
+      "pickupLocation": "Mumbai",
+      "dropLocation": "Pune",
+      "distance": "150 km",
+      "time": "3 hours",
+      "price": "₹2000",
+      "description": "A comfortable journey connecting two major cities of Maharashtra."
     }
   ]
 }
