@@ -1,1 +1,34 @@
 
+{
+  "distance": "95 km",
+  "duration": "2 hours 20 minutes",
+  "cost": 2100,
+  "pickupLocation": "Hazaribagh",
+  "dropLocation": "Ranchi",
+  "faqs": [
+    {
+      "question": "What is the Hazaribagh to Ranchi cab fare?",
+      "answer": "The cab fare for Hazaribagh to Ranchi starts at ₹2100 for hatchbacks. Sedans and SUVs are also available for added comfort. Book your ride today!"
+    },
+    {
+      "question": "How long does it take to travel from Hazaribagh to Ranchi?",
+      "answer": "The road journey from Hazaribagh to Ranchi takes around 2 hours and 20 minutes, depending on road and traffic conditions."
+    },
+    {
+      "question": "What types of cabs are available for Hazaribagh to Ranchi?",
+      "answer": "CityTaxis offers a range of cabs, including hatchbacks for budget travel, sedans for a comfortable ride, and SUVs for group or family trips."
+    },
+    {
+      "question": "Are one-way cabs available from Hazaribagh to Ranchi?",
+      "answer": "Yes, we provide economical one-way cab services from Hazaribagh to Ranchi, ensuring a cost-effective journey."
+    },
+    {
+      "question": "Are toll charges included in the Hazaribagh to Ranchi cab fare?",
+      "answer": "Toll charges are excluded from the fare and must be paid during the journey as applicable."
+    },
+    {
+      "question": "What safety measures are in place for Hazaribagh to Ranchi cab rides?",
+      "answer": "CityTaxis prioritizes safety with sanitized vehicles, GPS-enabled tracking, and drivers trained in safety protocols."
+    }
+  ]
+}
