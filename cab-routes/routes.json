@@ -27,6 +27,42 @@
       "price": "₹1200",
       "description": "Travel to the famous Omkareshwar Temple with comfort and ease."
     },
+        {
+      "route": "bokaro-to-lohardaga",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Lohardaga",
+      "distance": "175 km",
+      "time": "4 hours",
+      "price": "₹2300",
+      "description": "Travel from Bokaro to Lohardaga, a peaceful town surrounded by natural beauty."
+    },
+    {
+      "route": "ranchi-to-lohardaga",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Lohardaga",
+      "distance": "75 km",
+      "time": "1 hour 45 minutes",
+      "price": "₹1200",
+      "description": "Enjoy a short and comfortable journey from Ranchi to Lohardaga."
+    },
+    {
+      "route": "bokaro-to-lohanchal",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Lohanchal Cooperative",
+      "distance": "15 km",
+      "time": "30 minutes",
+      "price": "₹500",
+      "description": "A convenient ride from Bokaro to Lohanchal Cooperative for local travel."
+    },
+    {
+      "route": "ranchi-to-lohanchal",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Lohanchal Cooperative",
+      "distance": "125 km",
+      "time": "3 hours",
+      "price": "₹1800",
+      "description": "Travel easily from Ranchi to Lohanchal Cooperative with CityTaxis."
+    },
     {
       "route": "indore-to-ujjain",
       "pickupLocation": "Indore",
