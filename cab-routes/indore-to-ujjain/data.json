@@ -1,0 +1,21 @@
+{
+  "distance": "55 km",
+  "duration": "1 hour 20 minutes",
+  "cost": 1300,
+  "faqs": [
+    {
+      "question": "What is the fare for an Indore to Ujjain taxi?",
+      "answer": "The fare starts from ₹1300 for a Hatchback."
+    },
+    {
+      "question": "Can I book a round trip from Indore to Ujjain?",
+      "answer": "Yes, round trips are available for a flexible return journey."
+    },
+    {
+      "question": "Are there extra charges for waiting time?",
+      "answer": "Yes, additional charges may apply for extended waiting times."
+    }
+  ],
+  "pickupLocation": "Indore",
+  "dropLocation": "Ujjain"
+}
