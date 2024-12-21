@@ -2,43 +2,53 @@
   "cities": [
     {
       "name": "Ranchi",
-      "description": "The capital of Jharkhand, known for its waterfalls and lush greenery."
+      "description": "The capital of Jharkhand, known for its waterfalls and lush greenery.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Bokaro",
-      "description": "The Steel City of India, famous for its steel plants and beautiful parks."
+      "description": "The Steel City of India, famous for its steel plants and beautiful parks.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bokaro_Steel_City_banner.jpg"
     },
     {
       "name": "Jamshedpur",
-      "description": "An industrial city with scenic beauty and the famous Jubilee Park."
+      "description": "An industrial city with scenic beauty and the famous Jubilee Park.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Dhanbad",
-      "description": "The Coal Capital of India, known for its rich coal reserves."
+      "description": "The Coal Capital of India, known for its rich coal reserves.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Lohardaga",
-      "description": "A serene town surrounded by natural beauty and rich cultural heritage."
+      "description": "A serene town surrounded by natural beauty and rich cultural heritage.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Hazaribagh",
-      "description": "A town known for its wildlife sanctuary and tranquil environment."
+      "description": "A town known for its wildlife sanctuary and tranquil environment.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Chaibasa",
-      "description": "A culturally rich town known for its tribal heritage."
+      "description": "A culturally rich town known for its tribal heritage.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Purulia",
-      "description": "Known for its cultural festivals and vibrant scenic landscapes."
+      "description": "Known for its cultural festivals and vibrant scenic landscapes.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Ramgarh",
-      "description": "A historic town with coal mines and stunning landscapes."
+      "description": "A historic town with coal mines and stunning landscapes.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     },
     {
       "name": "Giridih",
-      "description": "A picturesque town known for its hills and Jain temples."
+      "description": "A picturesque town known for its hills and Jain temples.",
+      "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_20190211132903.jpg"
     }
   ]
 }
