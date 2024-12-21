@@ -62,6 +62,114 @@
       "time": "3 hours",
       "price": "₹2000",
       "description": "A comfortable journey connecting two major cities of Maharashtra."
+    },
+    {
+      "route": "ranchi-to-dhanbad",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Dhanbad",
+      "distance": "150 km",
+      "time": "3 hours 30 minutes",
+      "price": "₹2000",
+      "description": "A comfortable journey from Ranchi to Dhanbad with scenic landscapes."
+    },
+    {
+      "route": "bokaro-to-dhanbad",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Dhanbad",
+      "distance": "80 km",
+      "time": "2 hours",
+      "price": "₹1200",
+      "description": "Travel from Bokaro to the coal capital of India, Dhanbad, with ease."
+    },
+    {
+      "route": "ranchi-to-hazaribagh",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Hazaribagh",
+      "distance": "90 km",
+      "time": "2 hours",
+      "price": "₹1400",
+      "description": "A quick and comfortable journey from Ranchi to Hazaribagh."
+    },
+    {
+      "route": "bokaro-to-hazaribagh",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Hazaribagh",
+      "distance": "100 km",
+      "time": "2 hours 15 minutes",
+      "price": "₹1500",
+      "description": "A peaceful ride from Bokaro to the serene town of Hazaribagh."
+    },
+    {
+      "route": "ranchi-to-giridih",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Giridih",
+      "distance": "160 km",
+      "time": "4 hours",
+      "price": "₹2200",
+      "description": "A scenic drive from Ranchi to the historic town of Giridih."
+    },
+    {
+      "route": "bokaro-to-giridih",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Giridih",
+      "distance": "120 km",
+      "time": "3 hours",
+      "price": "₹1700",
+      "description": "Travel from Bokaro to Giridih, a town surrounded by natural beauty."
+    },
+    {
+      "route": "ranchi-to-chaibasa",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Chaibasa",
+      "distance": "110 km",
+      "time": "3 hours",
+      "price": "₹1800",
+      "description": "Travel comfortably from Ranchi to the cultural town of Chaibasa."
+    },
+    {
+      "route": "bokaro-to-chaibasa",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Chaibasa",
+      "distance": "150 km",
+      "time": "4 hours",
+      "price": "₹2200",
+      "description": "Enjoy a smooth ride from Bokaro to the tribal district of Chaibasa."
+    },
+    {
+      "route": "ranchi-to-purulia",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Purulia",
+      "distance": "120 km",
+      "time": "3 hours",
+      "price": "₹1600",
+      "description": "Enjoy a smooth drive from Ranchi to the scenic district of Purulia."
+    },
+    {
+      "route": "bokaro-to-purulia",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Purulia",
+      "distance": "100 km",
+      "time": "2 hours",
+      "price": "₹1500",
+      "description": "A quick journey from Bokaro to the vibrant town of Purulia."
+    },
+    {
+      "route": "ranchi-to-ramgarh",
+      "pickupLocation": "Ranchi",
+      "dropLocation": "Ramgarh",
+      "distance": "50 km",
+      "time": "1 hour 15 minutes",
+      "price": "₹900",
+      "description": "A convenient ride from Ranchi to Ramgarh, known for its coal mining."
+    },
+    {
+      "route": "bokaro-to-ramgarh",
+      "pickupLocation": "Bokaro",
+      "dropLocation": "Ramgarh",
+      "distance": "60 km",
+      "time": "1 hour 30 minutes",
+      "price": "₹1000",
+      "description": "A short journey from Bokaro to the coal mining hub of Ramgarh."
     }
   ]
 }
