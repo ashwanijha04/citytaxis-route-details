@@ -3,42 +3,47 @@
     {
       "route": "bokaro-to-ranchi",
       "pickupLocation": "Bokaro",
-      "dropLocation": "Ranchi"
+      "dropLocation": "Ranchi",
+      "distance": "110 km",
+      "time": "2 hours 30 minutes",
+      "price": "₹1500",
+      "description": "Enjoy a smooth ride from Bokaro to Ranchi with scenic views along the way."
     },
     {
       "route": "indore-to-bhopal",
       "pickupLocation": "Indore",
-      "dropLocation": "Bhopal"
+      "dropLocation": "Bhopal",
+      "distance": "200 km",
+      "time": "4 hours",
+      "price": "₹2500",
+      "description": "A convenient route connecting two major cities of Madhya Pradesh."
     },
     {
       "route": "indore-to-omkareshwar",
       "pickupLocation": "Indore",
-      "dropLocation": "Omkareshwar"
+      "dropLocation": "Omkareshwar",
+      "distance": "78 km",
+      "time": "1 hour 45 minutes",
+      "price": "₹1200",
+      "description": "Travel to the famous Omkareshwar Temple with comfort and ease."
     },
     {
       "route": "indore-to-ujjain",
       "pickupLocation": "Indore",
-      "dropLocation": "Ujjain"
+      "dropLocation": "Ujjain",
+      "distance": "55 km",
+      "time": "1 hour 30 minutes",
+      "price": "₹1000",
+      "description": "Visit the Mahakaleshwar Jyotirlinga with a hassle-free cab ride."
     },
     {
       "route": "jamshedpur-to-ranchi",
       "pickupLocation": "Jamshedpur",
-      "dropLocation": "Ranchi"
-    },
-    {
-      "route": "ranchi-to-bokaro",
-      "pickupLocation": "Ranchi",
-      "dropLocation": "Bokaro"
-    },
-    {
-      "route": "ranchi-to-dhanbad",
-      "pickupLocation": "Ranchi",
-      "dropLocation": "Dhanbad"
-    },
-    {
-      "route": "ranchi-to-jamshedpur",
-      "pickupLocation": "Ranchi",
-      "dropLocation": "Jamshedpur"
+      "dropLocation": "Ranchi",
+      "distance": "131 km",
+      "time": "3 hours",
+      "price": "₹2000",
+      "description": "A comfortable journey connecting the steel city to the capital of Jharkhand."
     }
   ]
 }
