@@ -1,55 +1,44 @@
-
 {
   "cities": [
     {
       "name": "Ranchi",
-      "description": "The capital of Jharkhand, known for its waterfalls and lush greenery.",
-      "slug": "ranchi"
+      "description": "The capital of Jharkhand, known for its waterfalls and lush greenery."
     },
     {
       "name": "Bokaro",
-      "description": "The Steel City of India, famous for its steel plants and beautiful parks.",
-      "slug": "bokaro"
+      "description": "The Steel City of India, famous for its steel plants and beautiful parks."
     },
     {
       "name": "Jamshedpur",
-      "description": "An industrial city with scenic beauty and the famous Jubilee Park.",
-      "slug": "jamshedpur"
+      "description": "An industrial city with scenic beauty and the famous Jubilee Park."
     },
     {
       "name": "Dhanbad",
-      "description": "The Coal Capital of India, known for its rich coal reserves.",
-      "slug": "dhanbad"
+      "description": "The Coal Capital of India, known for its rich coal reserves."
     },
     {
       "name": "Lohardaga",
-      "description": "A serene town surrounded by natural beauty and rich cultural heritage.",
-      "slug": "lohardaga"
+      "description": "A serene town surrounded by natural beauty and rich cultural heritage."
     },
     {
       "name": "Hazaribagh",
-      "description": "A town known for its wildlife sanctuary and tranquil environment.",
-      "slug": "hazaribagh"
+      "description": "A town known for its wildlife sanctuary and tranquil environment."
     },
     {
       "name": "Chaibasa",
-      "description": "A culturally rich town known for its tribal heritage.",
-      "slug": "chaibasa"
+      "description": "A culturally rich town known for its tribal heritage."
     },
     {
       "name": "Purulia",
-      "description": "Known for its cultural festivals and vibrant scenic landscapes.",
-      "slug": "purulia"
+      "description": "Known for its cultural festivals and vibrant scenic landscapes."
     },
     {
       "name": "Ramgarh",
-      "description": "A historic town with coal mines and stunning landscapes.",
-      "slug": "ramgarh"
+      "description": "A historic town with coal mines and stunning landscapes."
     },
     {
       "name": "Giridih",
-      "description": "A picturesque town known for its hills and Jain temples.",
-      "slug": "giridih"
+      "description": "A picturesque town known for its hills and Jain temples."
     }
   ]
 }
